@@ -52,8 +52,11 @@ To replicate this project or modify the code, follow these steps:
 4. **Testing**
    - Power on the robot and test its functionalities using an IR remote.
 
-## Contributors
+## YouTube Demo
 
+Check out the YouTube video demonstrating the robot's functionality.
+
+## Contributors
 - Aryaman Raina 
 - Agrim Sood
 - Falak Sethi 
